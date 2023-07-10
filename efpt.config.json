@@ -1,0 +1,53 @@
+﻿{
+   "CodeGenerationMode": 2,
+   "ContextClassName": "ArchivosContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": "DataBaseArchivos\/Context",
+   "OutputPath": "DataBaseArchivos\/Models",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "WebApiArchivos",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[SpGetAlmacenamiento]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[SpGetArchivoEspecifico]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[spLoginAlmacenamiento]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[spRegistrarArchivo]",
+         "ObjectType": 1
+      }
+   ],
+   "UiHint": "megades901.Archivos.dbo",
+   "UncountableWords": null,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDateOnlyTimeOnly": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false,
+   "UseT4": false
+}
